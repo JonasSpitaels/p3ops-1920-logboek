@@ -4,13 +4,12 @@
 |         naam         |    aanwezig   |
 |:--------------------:|:-------------:|
 |    Jonas Spitaels    |        x      |
-|    Robin Goesseye    |        x      |
-|      Berkant Ks      |        x      |
 
 
-> Wat er deze week gepresteerd is:
+> Wat er deze week gepresteerd is door mij:
 
-..
+Opzoekwerk omtrent Samba, video bekijken van Bert Van Vreckem omtrent het opzetten hiervoor. Starten met de ansible omgeving te clonen 
+
 
 > Foto's trellobord
 
@@ -22,12 +21,9 @@
 
 > Uren Jonas Spitaels    
 
-..
+[foto trello](images/trello.PNG)
 
-> Uren Robin Goesseye  
+> Links naar gebruikte sites
 
-..
 
-> Uren Berkant Ks
 
-..
