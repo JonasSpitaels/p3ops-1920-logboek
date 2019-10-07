@@ -21,7 +21,7 @@ Opzoekwerk omtrent Samba, video bekijken van Bert Van Vreckem omtrent het opzett
 
 > Uren Jonas Spitaels    
 
-[foto trello](../images/trello.PNG)
+[foto trello](/images/trello.PNG)
 
 > Links naar gebruikte sites
 
