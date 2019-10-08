@@ -17,11 +17,11 @@ Opzoekwerk omtrent Samba, video bekijken van Bert Van Vreckem omtrent het opzett
 
 > Foto burndown grafiek
 
-[foto toggl](images/burndown.PNG)
+[foto burndown](../images/burndown.PNG)
 
 > Uren Jonas Spitaels    
 
-[foto toggl](images/toggl.PNG)
+[foto toggl](../images/toggl.PNG)
 
 > Links naar gebruikte sites
 
